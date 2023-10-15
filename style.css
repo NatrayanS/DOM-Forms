@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(252, 133, 133);
+    color: rgb(10, 1, 90);
+  }
+  
+  #form-layout {
+    margin-top: 25px;
+    margin-left: 50px;
+  }
+
+  #description {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  input,textarea{
+    background-color: rgb(248, 226, 179) !important;
+  }
+  
+  .gender {
+    display: inline-block;
+    margin: 3px;
+  }
+  
+  .buttonstyle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(255, 114, 114);
+    color: rgb(175, 158, 190);
+  }
+  
+  .innerbutton {
+    margin: 5px;
+  }
+  
+  #table-styles{
+    color:rgb(243, 199, 199) !important;
+  }
